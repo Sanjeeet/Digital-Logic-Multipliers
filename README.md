@@ -1,2 +1,6 @@
 # Digital-Logic-Multipliers
-3 types of Digital Logic Multipliers implemented in Verilog
+Implementations of 3 types of Digital Logic Multipliers 
+
+- Array Multiplier
+- Carry Save Multiplier
+- Wallace Tree Multiplier
