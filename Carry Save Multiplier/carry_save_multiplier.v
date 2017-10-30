@@ -1,7 +1,7 @@
 /* This is a top level module that connects the switches and the 7-segment hex displays
  * to your multiplier.
  */
-module lab2(SW, HEX0, HEX1, HEX2, HEX3, LEDR);
+module carry_save_multiplier(SW, HEX0, HEX1, HEX2, HEX3, LEDR);
 	input [15:0] SW;
 	output [15:0] LEDR;
 	output [6:0] HEX0;
